@@ -1,0 +1,5 @@
+DEBUG [2]:     Comment scanned from @0 to @7
+DEBUG [2]:     Parsed code:
+IntegerLiteral: 4
+(+IntegerLiteral: 3 IntegerLiteral: 1)
+
